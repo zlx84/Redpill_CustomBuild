@@ -9,7 +9,7 @@
 ## 说明  
 方式一：  
 在本项目 Issues 中创建问题，按需填写即可发起定制构建。  
-[【👉快速创建】](https://wjz304.github.io/Redpill_CustomBuild/Issues.html)  如果没有json基础或者首次，建议使用。  
+[【👉快速创建】](https://zlx84.github.io/Redpill_CustomBuild/Issues.html)  如果没有json基础或者首次，建议使用。  
 [【👉快速创建】(dev)](https://wjz304.github.io/Redpill_CustomBuild/Issues.html?dev=1)  增加DS918+的7.1.1(自行测试)，修复部分驱动。  
 [【👉图文说明】](https://github.com/wjz304/Redpill_CustomBuild/blob/main/guide/Issues.md)  
 [【👉参考示例】](https://github.com/wjz304/Redpill_CustomBuild/issues/1)   
